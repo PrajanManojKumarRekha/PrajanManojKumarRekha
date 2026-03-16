@@ -16,7 +16,7 @@
     <a href="https://github.com/PrajanManojKumarRekha?tab=repositories">
         <img src="https://img.shields.io/badge/Public%20Repos-8-blue?style=flat-square&logo=github" alt="Public repositories" />
     </a>
-    <a href="https://portfolio-prajanmanojkumarrekha-prajanmanojkumarrekhas-projects.vercel.app/?_vercel_share=DqC9Qet6YYc3suRTblk3r4ax4JvJLybi">
+    <a href="https://portfolio-git-main-prajanmanojkumarrekhas-projects.vercel.app?_vercel_share=bgL16moTsAqbLIsuy0Qe1rOeOmClNad0">
         <img src="https://img.shields.io/badge/Portfolio-Live-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
 </p>
@@ -88,4 +88,4 @@
 ## Connect
 
 - GitHub: https://github.com/PrajanManojKumarRekha
-- Portfolio: https://portfolio-prajanmanojkumarrekha-prajanmanojkumarrekhas-projects.vercel.app/?_vercel_share=DqC9Qet6YYc3suRTblk3r4ax4JvJLybi
+- Portfolio: https://portfolio-git-main-prajanmanojkumarrekhas-projects.vercel.app?_vercel_share=bgL16moTsAqbLIsuy0Qe1rOeOmClNad0
