@@ -64,19 +64,10 @@
 | [HackTX2025](https://github.com/PrajanManojKumarRekha/HackTX2025) | Hackathon rapid build | HTML, JavaScript |
 | [Mannequin-modelling](https://github.com/PrajanManojKumarRekha/Mannequin-modelling) | Web-based modeling experiment | HTML |
 
-## GitHub Analytics
+## Contribution Calendar
 
 <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrajanManojKumarRekha&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajanManojKumarRekha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=PrajanManojKumarRekha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajanManojKumarRekha&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution activity graph" />
+    <img src="https://ghchart.rshah.org/4cd964/PrajanManojKumarRekha" alt="GitHub contribution calendar" />
 </p>
 
 ## Trophies
