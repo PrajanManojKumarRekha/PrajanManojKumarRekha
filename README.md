@@ -67,7 +67,7 @@
 ## Contribution Calendar
 
 <p align="center">
-    <img src="https://ghchart.rshah.org/4cd964/PrajanManojKumarRekha" alt="GitHub contribution calendar" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrajanManojKumarRekha&theme=github_dark" alt="GitHub contribution calendar" />
 </p>
 
 ## Trophies
