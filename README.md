@@ -58,7 +58,7 @@
 
 | Project | Focus | Stack |
 |---|---|---|
-| [Portfolio](https://github.com/PrajanManojKumarRekha/Portfolio) | Personal site and showcase | JavaScript, HTML/CSS, Vercel |
+| [Object-Detection](https://github.com/PrajanManojKumarRekha/Object-Detection) | Real-time object detection experiments | Python, Computer Vision |
 | [F.R.I.D.A.Y](https://github.com/PrajanManojKumarRekha/F.R.I.D.A.Y) | Assistant and automation experiments | Python |
 | [SudokuProject](https://github.com/PrajanManojKumarRekha/SudokuProject) | Logic and problem-solving implementation | C++ |
 | [HackTX2025](https://github.com/PrajanManojKumarRekha/HackTX2025) | Hackathon rapid build | HTML, JavaScript |
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajanManojKumarRekha&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution activity graph" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
 ## Trophies
