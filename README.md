@@ -68,6 +68,7 @@
 
 <p align="center">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrajanManojKumarRekha&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajanManojKumarRekha&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -75,7 +76,7 @@
 </p>
 
 <p align="center">
-    <img width="900" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+    <img width="980" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 </p>
 
 ## Trophies
