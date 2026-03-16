@@ -59,16 +59,15 @@
 | Project | Focus | Stack |
 |---|---|---|
 | [Object-Detection](https://github.com/PrajanManojKumarRekha/Object-Detection) | Real-time object detection experiments | Python, Computer Vision |
-| [F.R.I.D.A.Y](https://github.com/PrajanManojKumarRekha/F.R.I.D.A.Y) | Assistant and automation experiments | Python |
+| [F.R.I.D.A.Y](https://github.com/PrajanManojKumarRekha/F.R.I.D.A.Y) | Voice assistant and automation experiments | ElevenLabs, Python |
 | [SudokuProject](https://github.com/PrajanManojKumarRekha/SudokuProject) | Logic and problem-solving implementation | C++ |
-| [HackTX2025](https://github.com/PrajanManojKumarRekha/HackTX2025) | Hackathon rapid build | HTML, JavaScript |
-| [Mannequin-modelling](https://github.com/PrajanManojKumarRekha/Mannequin-modelling) | Web-based modeling experiment | HTML |
+| [HackTX2025](https://github.com/PrajanManojKumarRekha/HackTX2025) | Hackathon rapid build | Docker, JavaScript, Python, Gemini API |
+| [Mannequin-modelling](https://github.com/PrajanManojKumarRekha/Mannequin-modelling) | Web-based modeling experiment | JavaScript, MediaPipe |
 
 ## GitHub Status
 
 <p align="center">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrajanManojKumarRekha&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajanManojKumarRekha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -76,7 +75,7 @@
 </p>
 
 <p align="center">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+    <img width="900" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 </p>
 
 ## Trophies
