@@ -23,10 +23,10 @@
 
 ## About Me
 
-- I build practical software products with a focus on clean architecture and useful UX.
-- My current interests are AI automation, backend systems, and full-stack apps.
-- I enjoy moving from idea to working prototype quickly and iterating from feedback.
-- Open to collaborations on impactful projects.
+* I build practical software products with a focus on clean architecture and useful UX.
+* My current interests are AI automation, backend systems, and full-stack apps.
+* I enjoy moving from idea to working prototype quickly and iterating from feedback.
+* Open to collaborations on impactful projects.
 
 ## Tech Stack
 
@@ -87,5 +87,5 @@
 
 ## Connect
 
-- GitHub: https://github.com/PrajanManojKumarRekha
-- Portfolio: https://portfolio-git-main-prajanmanojkumarrekhas-projects.vercel.app?_vercel_share=bgL16moTsAqbLIsuy0Qe1rOeOmClNad0
+* GitHub: https://github.com/PrajanManojKumarRekha
+* Portfolio: https://portfolio-git-main-prajanmanojkumarrekhas-projects.vercel.app?_vercel_share=bgL16moTsAqbLIsuy0Qe1rOeOmClNad0
