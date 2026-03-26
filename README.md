@@ -82,9 +82,7 @@
 ## Trophies
 
 <p align="center">
-    <a href="https://github-profile-trophy.vercel.app/?username=PrajanManojKumarRekha&theme=onedark&no-frame=true&row=1&column=7&margin-w=12&margin-h=12">
-        <img src="https://github-profile-trophy.vercel.app/?username=PrajanManojKumarRekha&theme=onedark&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=PrajanManojKumarRekha&theme=onedark&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
 </p>
 
 ## Connect
