@@ -79,10 +79,12 @@
     <img width="980" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 </p>
 
-## Trophies
+## Daily Quote
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=PrajanManojKumarRekha&theme=onedark&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+        <img src="https://readme-daily-quotes.vercel.app/api?theme=github_dark&category=programming" alt="Daily programming quote" />
+    </a>
 </p>
 
 ## Connect
