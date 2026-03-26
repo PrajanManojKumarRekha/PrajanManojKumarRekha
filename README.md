@@ -79,13 +79,12 @@
     <img width="980" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 </p>
 
-## Profile Highlights
+## Trophies
 
 <p align="center">
-    <img src="https://img.shields.io/github/followers/PrajanManojKumarRekha?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/PrajanManojKumarRekha?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
-    <img src="https://img.shields.io/github/repo-size/PrajanManojKumarRekha/HackTX2025?style=for-the-badge&logo=github&label=Largest%20Repo" alt="Largest repository size" />
-    <img src="https://img.shields.io/github/last-commit/PrajanManojKumarRekha/HackTX2025?style=for-the-badge&logo=github&label=Last%20Commit" alt="Latest commit activity" />
+    <a href="https://github-profile-trophy.vercel.app/?username=PrajanManojKumarRekha&theme=onedark&no-frame=true&row=1&column=7&margin-w=12&margin-h=12">
+        <img src="https://github-profile-trophy.vercel.app/?username=PrajanManojKumarRekha&theme=onedark&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
+    </a>
 </p>
 
 ## Connect
