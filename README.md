@@ -59,7 +59,7 @@
 | Project | Focus | Stack |
 |---|---|---|
 | [Object-Detection](https://github.com/PrajanManojKumarRekha/Object-Detection) | Real-time object detection experiments | Python, Computer Vision |
-| [F.R.I.D.A.Y](https://github.com/PrajanManojKumarRekha/F.R.I.D.A.Y) | Voice assistant and automation experiments | ElevenLabs, Python |
+| [CareIT](https://github.com/PrajanManojKumarRekha/careit/tree/main) | Immediate booking system with doctors and FHIR international standard document handler for doctors | ElevenLabs, Python, SupaBase, React |
 | [SudokuProject](https://github.com/PrajanManojKumarRekha/SudokuProject) | Logic and problem-solving implementation | C++ |
 | [HackTX2025](https://github.com/PrajanManojKumarRekha/HackTX2025) | Hackathon rapid build | Docker, JavaScript, Python, Gemini API |
 | [Mannequin-modelling](https://github.com/PrajanManojKumarRekha/Mannequin-modelling) | Web-based modeling experiment | JavaScript, MediaPipe |
